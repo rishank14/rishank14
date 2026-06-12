@@ -36,8 +36,6 @@ I enjoy building modern web applications, solving problems through code, and tur
 
 Most of my learning comes from hands-on development, experimenting with new technologies, and continuously challenging myself with new projects.
 
-**Always building. Always learning.**
-
 ---
 
 ## 🛠️ Tech Stack

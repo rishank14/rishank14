@@ -46,7 +46,7 @@ Most of my learning comes from hands-on development, experimenting with new tech
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase,tailwind,git,github,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,tailwind,git,github,postman,vercel" />
 
 </div>
 
